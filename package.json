@@ -1,0 +1,14 @@
+{
+  "name": "faqino",
+  "version": "1.0.0",
+  "description": "Generatore di domande frequenti da testo incollato — trasforma articoli e testi in FAQ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "license": "MIT"
+}
